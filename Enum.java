@@ -1,0 +1,1 @@
+enum State{Rucicka ,Carka, Carky, Krouzek, Kyblicek, Tuzka, Mazatko}
