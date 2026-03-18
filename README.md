@@ -1,1 +1,2 @@
 # Malovani
+Skoro funkční verze
